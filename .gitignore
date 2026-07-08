@@ -1,0 +1,6 @@
+/build*/
+.DS_STORE
+
+# Built iOS products
+libbchat-util.xcframework
+libbchat-util.xcframework.zip

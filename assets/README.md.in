@@ -9,5 +9,5 @@ issues with CI (and be annoying for contributors).
 
 ## Version
 
-* This Package: *1.1.0*
-* LibBchat-Util: *v1.1.0*
+* This Package: *${new_version}*
+* LibBchat-Util: *${upstream_version}*
